@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+safeRide_env/
+
+# VS Code
+.vscode/
+
+# Spark
+metastore_db/
+spark-warehouse/
+
+# OS
+.DS_Store
